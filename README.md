@@ -27,6 +27,8 @@ Dataset: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 Note: No model training or weight updates were performed.
 
+![Python Code](cifar10_linear_classifier.py)
+
 ## 4. Results
 
 ### Class Weight Visualization
